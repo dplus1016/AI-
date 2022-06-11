@@ -1,1 +1,1 @@
-streamlit_chat
+streamlit_chat==0.0.2.1
