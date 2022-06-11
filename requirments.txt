@@ -1,1 +1,2 @@
-pip install streamlit_chat==0.0.2.1
+pip==22.1.2
+streamlit_chat
