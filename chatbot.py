@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit_chat
 from streamlit_chat import message
 import pandas as pd
 from sentence_transformers import SentenceTransformer
